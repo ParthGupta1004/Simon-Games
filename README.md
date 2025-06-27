@@ -1,1 +1,2 @@
-# Simon-Games
+# Simon-Game
+Let's test your Memory!
